@@ -37,7 +37,7 @@
 
 ###
 
-<p data-importer="text" align="left">👩‍💻 Atualmente eu trabalho como Assistente de TI<br><br>🎯Focado em melhorar meu Inglês<br><br>🔎 Procurando Vagas de Estágio em Desenvolvimento</p>
+<p data-importer="text" align="left">👩‍💻 Atualmente eu trabalho como Assistente de TI<br><br>🎯 Focado em melhorar meu Inglês<br><br>🔎 Procurando Vagas de Estágio em Desenvolvimento</p>
 
 ###
 
